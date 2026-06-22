@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "RealEstateAgent",
+  "name": "互助商事株式会社",
+  "alternateName": "ごじょしょうじ",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "621-0029",
+    "addressRegion": "京都府",
+    "addressLocality": "亀岡市",
+    "streetAddress": "曽我部町穴太大塚47番地1",
+    "addressCountry": "JP"
+  },
+  "telephone": "+81-771-56-9300",
+  "faxNumber": "+81-771-56-9300",
+  "email": "gojosyouji@zeus.eonet.ne.jp",
+  "areaServed": "京都府亀岡市",
+  "identifier": "京都府知事免許（15）第2370号"
+}
